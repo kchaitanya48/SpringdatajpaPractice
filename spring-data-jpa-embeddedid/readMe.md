@@ -1,0 +1,1 @@
+https://www.amitph.com/spring-data-jpa-embeddedid/
